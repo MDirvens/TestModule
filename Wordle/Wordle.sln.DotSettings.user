@@ -1,0 +1,28 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a8d2517_002Db45f_002D4420_002D8c14_002D6c095f98cd5e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUnknownWord_Callfunction_NotNull" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.WordleV2Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b3d48c81_002Dd283_002D4852_002D86ce_002D2cf10df4865d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodsTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c684f1cf_002D3297_002D4191_002D897d_002D89c83f2d00b6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetUnknownWord_Callfunction_NotNull #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GetUnknownWord_CallFunction_NotNull&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GivenNameValid_NotAName_Exception&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GivenNameValid_EmptyWord_IsFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GivenNameValid_EmptyCharacter_IsFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GivenNameValid_ShorterName_IsFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GivenNameValid_NotAName_IsFalse&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GivenNameValid_NotAName_IsTrue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GuessCheck_CheckGuesedWord_False&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GuessCheck_CheckGuesedWord_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GetResponse_Guess_ResponseData&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.MethodesTests.GetResponse_Guess_ResponseDataAreAdded&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.WordleV2Tests.game_Guess_ResponseDataAreAdded&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::A1F8CC08-6A35-446B-A39E-06C520CD0713::net5.0::Wordle.Tests.WordleV2Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
